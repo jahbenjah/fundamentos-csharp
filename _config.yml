@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+
+disqus:
+
+ shortname: https-jahbenjah-github-io
+
+google_analytics: UA-130293099-1
