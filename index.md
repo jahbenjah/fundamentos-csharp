@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title:  "Fundamentos de programación con C#"
 comments: true
 categories: .NET Core C# dotnet 
