@@ -5,10 +5,10 @@
 * Prefacio
 * Capítulo 1: Breve historia de C# 
   * Versiones.
-  * Instalacion de herramientoas.
+  * Instalación de herramientas.
     * Visual Studio Code
     * Visual Studio 2017 Community Edition
-  * Paradigmas de programacion
+  * Paradigmas de programación
 * Capítulo 2: Sintaxis
   * c
 * Capítulo 3: Control de flujo del programa
