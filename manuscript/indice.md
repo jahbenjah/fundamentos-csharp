@@ -1,6 +1,4 @@
-# Fundamentos de C# #
-
-## Indice #
+# Indice #
 
 * Prefacio
 * Capítulo 1: Breve historia de C# 
