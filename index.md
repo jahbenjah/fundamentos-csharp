@@ -1,8 +1,6 @@
 ---
 layout: home
 title:  "Fundamentos de programación con C#"
-comments: true
-categories: .NET Core C# dotnet 
 ---
 
 El propósito de este libro es darte una introducción informal a la programación para ello utilizare el lenguaje de programación C# y .NET Core porque es mi lenguaje de programación favorito, es de código abierto, es multiplataforma , está en constante evolución y es gratis. Es importante aclarar que aunque con C# se pueden escribir aplicaciones con interfaz gráfica de para computadores de escritorio , aplicaciones web y aplicaciones móviles en este tutorial me enfocaré en crear las llamadas librerías y aplicaciones de consola que no son tan atractivas.
@@ -15,5 +13,5 @@ Los primeros capítulos (aun no sé cuantos pero habrá suficientes) se enfocara
 
 La propuesto inicial es incluir estos temas:
 
-* Introducción a la programación y a C#
-* Instalando el entorno de desarrollo
+Introducción a la programación y a C#
+Instalando el entorno de desarrollo
