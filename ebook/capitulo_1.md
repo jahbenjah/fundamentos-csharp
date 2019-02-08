@@ -15,16 +15,18 @@ catch()
 }
 ```
 
-## Versiones del lenguage
+## Versiones del lenguaje
 
-* C# 8.0
-* C# 7.0
-* C# 6.0
-* C# 5.0
+La primera versión del lenguaje salia allá por el 2001 junto con el NET Framework. C# ha estado en constante evolución
+
+* C# 8.0 : Patter matching
+* C# 7.0 : 
+* C# 6.0 :
+* C# 5.0 : Async Await
 * C# 4.0
-* C# 3.0
-* C# 2.0
-* C# 1.0
+* C# 3.0 : LINQ , Genericos 
+* C# 2.0 : 
+* C# 1.0 : Alla por el 2001 muy parecido a Java.
  
  ## Herramientas
 
